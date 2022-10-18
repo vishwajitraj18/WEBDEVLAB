@@ -1,0 +1,34 @@
+Name-Vishwajit Anmolsing Rajput
+practical no-6
+Roll No-88
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <title>Practical</title>
+    <style>
+        div{
+            font-size:50px;
+            text-align:center;
+            margin-top:40px;
+            margin-left:250px;
+            margin-right:250px;
+            border:2px solid black;
+           }
+    </style>
+</head>
+<body>
+    <h1 style="color:#693D3D;background-color: #e2d810;text-align: center;">
+    Myself Vishwajit Rajput<br>
+    You may connect to me through the below links
+    </h1>
+    <div>
+<a href="https://www.linkedin.com/in/vishwajit-rajput-6a6393252">Linkedin </a> 
+</div> 
+<div>
+<a href="https://github.com/Vishwajit01">Github</a> </div> 
+<div>
+<a href="mailto:rajputvishwajit404@gmail.com">Gmail</a> 
+</div> 
+<div>
+</body> 
+</html>
